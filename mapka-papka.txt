@@ -1,0 +1,9 @@
+matan VasyaPupkin 5
+matan Pepe 6
+fiz VasyaPupkin 3
+fiz Pepe 7
+kil VasyaPupkin 2
+kil Pepe 8
+kil Gena 2
+fiz Gena 3
+matan Gena 5
