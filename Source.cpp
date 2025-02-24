@@ -32,14 +32,17 @@ int main() {
 	MapLinear<StudentMarks, vector<string>> map2;
 
 	in.close();
-	for (auto i = map.begin(); true; i.print(),  i++) {
+	for (auto i = map.begin(); i != map.end(); ++i) {
 		//if (i) {
 		//	//cout << i->key;
 		//	//map2[]
 		//}
+		//
 		cout << "gg" << endl;
 		//cout << i << endl;
 	}
+	//
+	//
 	////
 	
 	cout << map;
